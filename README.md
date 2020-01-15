@@ -1,6 +1,6 @@
 # P5JSPointAndFigure GOLD/USD drawing tool
 
-This is PointAndFigure drawing tool using P5.js.
+XAU_USD_D.js is PointAndFigure drawing tool using P5.js.
 
 Required:
 1. Oanda trade history data : XAU_USD_D.json
